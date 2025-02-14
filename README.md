@@ -7,3 +7,7 @@ Almost nothing I work on professionally is hosted on github so all you're seeing
 I believe that the most impactful digital experiences arise from a harmonious blend of insightful design and skillful development. I'm passionate about translating user needs into elegant, functional, and visually captivating solutions using **JavaScript**, **TypeScript**, **Python**, and **PHP**.
 
 Not so long ago I found an archive of my old subversion server and so there are a whole bunch of my ancient projects up here. Don't judge the code too harshly, I'm sure your code wasn't fantastic 20 years ago!
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=johnadelman&label=Profile%20views&color=2196F3&style=flat-square" alt="Profile Views">
+</p>
