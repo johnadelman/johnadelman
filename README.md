@@ -8,6 +8,6 @@ I believe that the most impactful digital experiences arise from a harmonious bl
 
 Not so long ago I found an archive of my old subversion server and so there are a whole bunch of my ancient projects up here. Don't judge the code too harshly, I'm sure your code wasn't fantastic 20 years ago!
 
-<p>
+<p style="display: flex; justify-content: end;">
   <img src="https://komarev.com/ghpvc/?username=johnadelman&label=Profile%20views&color=2196F3&style=flat-square" alt="Profile Views">
 </p>
